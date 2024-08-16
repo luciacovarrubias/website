@@ -1,2 +1,2 @@
 # website
-This is my first web site, made with html5 and css v3
+Practicando un poco html 5, CSS y dandole un poco de estilos ☁🏔
